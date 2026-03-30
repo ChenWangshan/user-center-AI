@@ -1,3 +1,4 @@
+com/aicode/usercenter/service/UserManagementService.class
 com/aicode/usercenter/model/LoginResponse.class
 com/aicode/usercenter/model/ApiErrorResponse.class
 com/aicode/usercenter/service/UserAuthService.class
@@ -5,10 +6,14 @@ com/aicode/usercenter/model/SessionUser.class
 com/aicode/usercenter/service/AuthTokenService.class
 com/aicode/usercenter/controller/UserCenterController.class
 com/aicode/usercenter/model/AuthResponse.class
+com/aicode/usercenter/model/SystemUserPageResponse.class
 com/aicode/usercenter/model/UserProfileResponse.class
 com/aicode/usercenter/UserCenterApplication.class
+com/aicode/usercenter/model/SystemUserResponse.class
 com/aicode/usercenter/service/AuthTokenService$TokenSession.class
 com/aicode/usercenter/controller/AuthController.class
 com/aicode/usercenter/model/LoginRequest.class
 com/aicode/usercenter/model/UserAccount.class
+com/aicode/usercenter/model/SystemUserPayload.class
+com/aicode/usercenter/controller/UserManagementController.class
 com/aicode/usercenter/config/OpenApiConfig.class

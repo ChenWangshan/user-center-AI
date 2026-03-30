@@ -15,6 +15,8 @@ public class UserAuthService {
             rs.getLong("id"),
             rs.getString("username"),
             rs.getString("password"),
+            rs.getString("phone"),
+            rs.getString("email"),
             rs.getString("display_name"),
             rs.getString("status")
     );
@@ -27,7 +29,7 @@ public class UserAuthService {
 
     public Optional<UserAccount> authenticate(String username, String password) {
         String sql = """
-                SELECT id, username, password, display_name, status
+                SELECT id, username, password, phone, email, display_name, status
                 FROM users
                 WHERE username = ? AND password = ?
                 """;

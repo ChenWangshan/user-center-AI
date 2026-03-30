@@ -2,12 +2,17 @@
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/config/OpenApiConfig.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/controller/AuthController.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/controller/UserCenterController.java
+/Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/controller/UserManagementController.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/ApiErrorResponse.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/AuthResponse.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/LoginRequest.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/LoginResponse.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/SessionUser.java
+/Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/SystemUserPageResponse.java
+/Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/SystemUserPayload.java
+/Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/SystemUserResponse.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/UserAccount.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/model/UserProfileResponse.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/service/AuthTokenService.java
 /Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/service/UserAuthService.java
+/Users/chenwangshan/Documents/AI-Code/server/user-center-AI/src/main/java/com/aicode/usercenter/service/UserManagementService.java

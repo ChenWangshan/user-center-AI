@@ -7,6 +7,8 @@ public record UserAccount(
         Long id,
         String username,
         String password,
+        String phone,
+        String email,
         String displayName,
         String status
 ) {

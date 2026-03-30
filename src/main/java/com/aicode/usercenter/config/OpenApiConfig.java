@@ -26,7 +26,7 @@ public class OpenApiConfig {
                                 .description("imds-AI 登录后返回的 Bearer Token")))
                 .info(new Info()
                         .title("用户中心接口文档")
-                        .description("用户中心服务的 OpenAPI/Swagger 接口文档，包含健康检查、演示资料查询，以及兼容 imds-AI 前端的登录与当前用户查询接口。")
+                        .description("用户中心服务的 OpenAPI/Swagger 接口文档，包含健康检查、演示资料查询，以及兼容 imds-AI 前端的登录、当前用户查询和用户管理接口。")
                         .version("v1.0.0")
                         .contact(new Contact()
                                 .name("AI Code Team")
